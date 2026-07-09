@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimrta Sharma</h1>
 <h3 align="center">B.Tech CSE Student </h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Developer;DSA+Learner;Web+Development+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
-</p>
 
----
 
 ## 🙋‍♀️ About Me
 
