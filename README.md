@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimrta Sharma</h1>
-<h3 align="center">B.Tech CSE Student | Java Developer | Web Development Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
