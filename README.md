@@ -78,13 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nimrta12&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
 
 ## 💻 Coding Activity
 
@@ -94,19 +87,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 💡 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
-</p>
 
 ---
 
